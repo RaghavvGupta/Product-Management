@@ -6,7 +6,7 @@ Welcome to my product portfolio! This repository contains two comprehensive prod
 
 ## 🚀 Decks Included
 
-1. **[CRED Garage Market Analysis](./CRED_Garage_Market_Analysis.pdf)**
+1. **[CRED Garage Market Analysis](./CRED.pdf)**
    - **Objective**: To analyze the market potential for CRED Garage and propose strategies to maximize its impact within the target audience.
    - **Highlights**:
      - Competitive analysis of existing market players.
@@ -14,7 +14,7 @@ Welcome to my product portfolio! This repository contains two comprehensive prod
      - Strategic recommendations to differentiate CRED Garage in the market.
    - **Target Audience**: Financially active individuals looking for convenience in managing vehicle-related expenses and services.
 
-2. **[Swiggy Case Study: Revenue Dip Analysis](./Swiggy_Revenue_Dip_Case_Study.pdf)**
+2. **[Swiggy Case Study: Revenue Dip Analysis](./Swiggy_(1).pdf)**
    - **Objective**: To investigate the root causes of a 30% revenue dip in Gurugram on February 22 and recommend corrective measures.
    - **Highlights**:
      - Breakdown of factors impacting revenue, including operational, user, and market-driven issues.
@@ -46,8 +46,8 @@ These product decks demonstrate my ability to:
 ## 🎯 How to Use This Portfolio
 
 1. **View Decks Online**: Click the links below to explore the decks:
-   - [CRED Garage Market Analysis](./CRED_Garage_Market_Analysis.pdf)
-   - [Swiggy Revenue Dip Case Study](./Swiggy_Revenue_Dip_Case_Study.pdf)
+   - [CRED Garage Market Analysis](./CRED.pdf)
+   - [Swiggy Revenue Dip Case Study](./Swiggy_(1).pdf)
    
 2. **Download the Decks**:
    Clone this repository and access the files locally:
