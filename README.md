@@ -70,16 +70,3 @@ These documents demonstrate my ability to:
 
 ---
 
-## 🎯 How to Use This Portfolio
-
-1. **View PRDs & Case Studies Online**: Click the links below to explore the documents:
-   - [CRED Garage Market Analysis](./CRED.pdf)
-   - [Swiggy Revenue Dip Case Study](./Swiggy_(1).pdf)
-   - [FocusFlow: AI-Powered Task Management PRD](./FocusFlow_PRD.pdf)
-   - [Canva New User Onboarding Enhancement PRD](./Omnify_PRD.pdf)
-   - [Upraised KYS PRD](./UPRAISED_KYS_PRD.pdf)
-   
-2. **Download the Documents**:
-   Clone this repository and access the files locally:
-   ```bash
-   git clone https://github.com/RaghavvGupta/Product-Management.git
