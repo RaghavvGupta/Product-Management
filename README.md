@@ -14,7 +14,7 @@ Welcome to my product portfolio! This repository contains a collection of compre
      - Strategic recommendations to differentiate CRED Garage in the market.
    - **Target Audience**: Financially active individuals looking for convenience in managing vehicle-related expenses and services.
 
-2. **[Swiggy Case Study: Revenue Dip Analysis](./Swiggy_(1).pdf)**
+2. **[Swiggy Case Study: Revenue Dip Analysis](./Swiggy.pdf)**
    - **Objective**: To investigate the root causes of a 30% revenue dip in Gurugram on February 22 and recommend corrective measures.
    - **Highlights**:
      - Breakdown of factors impacting revenue, including operational, user, and market-driven issues.
