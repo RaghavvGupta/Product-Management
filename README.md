@@ -1,4 +1,4 @@
-# Product Portfolio
+# 🧠 Product Portfolio
 
 Welcome to my product portfolio! This repository contains a collection of comprehensive product requirement documents (PRDs) and case studies that showcase my analytical and problem-solving skills in product management. Each document represents a detailed study of real-world scenarios with actionable insights and recommendations.
 
@@ -46,6 +46,14 @@ Welcome to my product portfolio! This repository contains a collection of compre
      - Personalized feedback mechanisms to drive retention.
    - **Target Audience**: Aspiring and early-stage product managers looking to assess and improve their skills.
 
+6. **[Group Travel Planning App PRD](./TravelApp_PRD.pdf)**  
+   - **Problem**: Group travel planning is chaotic — with scattered conversations, unclear decision-making, and poor coordination.  
+   - **Highlights**:
+     - Centralized platform for trip voting (destinations, budget, dates).
+     - Collaborative itinerary building and shared expense tracking.
+     - Real-time updates and booking integration with travel APIs.
+   - **Target Audience**: Friends, families, and colleagues planning trips collaboratively.
+
 ---
 
 ## 🔍 Why These PRDs & Case Studies?
@@ -69,4 +77,3 @@ These documents demonstrate my ability to:
 - **Impact Analysis**: How the recommendations address the problem and drive success.
 
 ---
-
